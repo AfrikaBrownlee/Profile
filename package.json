@@ -1,0 +1,11 @@
+{
+  "name": "Profile",
+  "version": "1.0.0",
+  "description": "First Node/Express server",
+  "main": "index.js",
+  "author": "Afrika Brownlee",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
