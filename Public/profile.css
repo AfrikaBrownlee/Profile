@@ -1,13 +1,8 @@
-h1 {
-  color: #198911;
-  font-size: 45;
-  align-
-}
-h2 {
+/* }h2 {
   color: green;
   font-size: 80%;
   text-align: left;
-}
+} */
 
 #sun {
   height: 65vh;
@@ -19,7 +14,7 @@ h2 {
   width: 85vw;
 }
 body {
-  background-color: #123243;
+  background-color: white;
 }
 
 .flex-item {
@@ -35,3 +30,21 @@ body {
   height: 40%;
   width: 60%;
 }
+
+/* navbar */
+body {
+  padding-top: 54px;
+}
+
+/* .card-img-top {
+    width: 100%;
+    height: 45vh;
+    object-fit: cover;
+} */
+
+@media (min-width: 992px) {
+  body {
+    padding-top: 56px;
+  }
+}
+/* navbar */
