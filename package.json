@@ -1,0 +1,13 @@
+{
+  "name": "Profile",
+  "version": "1.0.0",
+  "description": "First Node/Express Server",
+  "main": "index.js",
+  "repository": "https://github.com/AfrikaBrownlee/profile.git",
+  "author": "Afrika Brownlee",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}

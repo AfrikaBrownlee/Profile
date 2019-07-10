@@ -1,0 +1,37 @@
+h1 {
+  color: #198911;
+  font-size: 45;
+  align-
+}
+h2 {
+  color: green;
+  font-size: 80%;
+  text-align: left;
+}
+
+#sun {
+  height: 65vh;
+  width: 40vw;
+}
+
+#nature {
+  height: 50vh;
+  width: 85vw;
+}
+body {
+  background-color: #123243;
+}
+
+.flex-item {
+ flex-direction: row;
+ justify-content: flex-start;
+ flex-wrap: nowrap;
+ align-items: stretch;
+}
+
+.flex-container {
+  text-align: center;
+  background-color: lightblue;
+  height: 40%;
+  width: 60%;
+}
